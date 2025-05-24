@@ -1,2 +1,3 @@
 # Stock-price-prediction
 "Stock price prediction using LSTM neural networks on NVIDIA (NVDA) data."
+This project is a stock price prediction model developed as part of the CodeAlpha Internship. It uses Long Short-Term Memory (LSTM) neural networks to forecast the closing prices of NVIDIA (NVDA) stock based on historical data. The model is trained on data from 2015 to 2024, utilizing deep learning techniques for time series analysis. Key steps include data preprocessing with MinMaxScaler, model building with TensorFlow/Keras, and visualization of prediction results. The goal of this project is to demonstrate the application of LSTM in real-world financial forecasting.
